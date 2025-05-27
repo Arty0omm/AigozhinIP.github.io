@@ -899,3 +899,15 @@ footer {
     box-shadow: none;
   }
 }
+}
+.contacts a:active {
+  color: #00ff88;
+  text-decoration: underline;
+  transform: scale(1.05);
+}
+
+.light-theme .contacts a:active {
+  color: #00cc66;
+  text-decoration: underline;
+  transform: scale(1.05);
+}

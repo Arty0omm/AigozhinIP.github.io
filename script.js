@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "contacts-title": "Байланыстар",
       "contacts-phone": "Телефон: +7 87472061807",
       "contacts-email": "Email: armashka.91@mail.ru",
-      "contacts-address": "Мекенжай: Академика Чокина көшесі, 38/1",
+      "contacts-address": "Мекенжай: Город Павлодар, Академика Чокина көшесі, 38/1",
       "footer-text": "© 2025 ИП Айгожина. Барлық құқықтар қорғалған."
     },
     en: {
